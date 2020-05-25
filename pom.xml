@@ -11,7 +11,7 @@
     <groupId>studio.thinkground</groupId>
     <artifactId>study</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <name>thinkground_study</name>
+    <name>thinkGround_study</name>
     <description>ThinkGround Study Material</description>
 
     <properties>

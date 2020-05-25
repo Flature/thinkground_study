@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ThinkgroundStudyApplication {
+public class ThinkGroundStudyApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ThinkgroundStudyApplication.class, args);
+        SpringApplication.run(ThinkGroundStudyApplication.class, args);
     }
 
 }
